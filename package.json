@@ -1,0 +1,20 @@
+{
+  "name": "ROCKETQ",
+  "version": "1.0.0",
+  "description": "Projeto da NLW6 trilha discover.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosARGomes/ROCKETQ.git"
+  },
+  "keywords": [],
+  "author": "Marcos André Ribeiro Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosARGomes/ROCKETQ/issues"
+  },
+  "homepage": "https://github.com/MarcosARGomes/ROCKETQ#readme"
+}
